@@ -19,6 +19,13 @@
     text-align: center;
 }
 
+.head4 {
+    text-align: center;
+    font-size: 40px;
+    background-color: burlywood;
+    color: cyan;
+}
+
 .head1:hover {
     background-color: aqua;
     color: blueviolet;
