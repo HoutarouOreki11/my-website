@@ -1,0 +1,36 @@
+.head1 {
+    background-color: black;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+}
+
+.head2 {
+    background-color: purple;
+    color: hotpink;
+    font-size: 40px;
+    text-align: center;
+}
+
+.head3 {
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+}
+
+.head1:hover {
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.head3:hover {
+    background-color: black;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    transition: 0.3s; 
+}
